@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">YaarMe</string>
+    <string name="yaarme">YaarMe</string>
+    <string name="description">Information Technology &amp; Services Raipur, Chhattisgarh</string>
+    <string name="followers">113 followers</string>
+    <string name="business"> </string>
+    <string name="information">Building the world\'s most luxurious social media</string>
+    <string name="post">Posted by Akash Ranjan Verma  </string>
+    <string name="space">  </string>
+    <string name="date"><li>7/11/2020</li></string>
+    <string name="textview">TextView</string>
+    <string name="three_arrow">three_arrow</string>
+    <string name="todo">TODO</string>
+    <string name="dp">dp</string>
+    <string name="pencil">pencil</string>
+    <string name="right_arrow">right arrow</string>
+    <string name="_6mo">6mo</string>
+    <string name="content">We have just started working to develop a social media platform which aim to connect you with your friends and family in most convenient way.
+Your comments and suggestions would be greatly appreciated.</string>
+    <string name="img_post">img_post</string>
+
+    <string name="nav_down">nav_down</string>
+    <string name="logo_pic">logo_pic</string>
+    <string name="submit">add_floating</string>
+    <string name="link">yaarme.com</string>
+</resources>
